@@ -1,7 +1,7 @@
 import praw
-reddit = praw.Reddit(client_id="UmxoiHqSrchW6Q",  # your client it
-                     client_secret="2pnNJXEodhy0vcZs4U6pTAUPqoM",  # your client secret
-                     user_agent="soumyajit4419",  # user agent name
+reddit = praw.Reddit(client_id="oslMViCjqBmNUUfX3_f9Dg",  # your client it
+                     client_secret="OM9uxUTi81-h8YeMBKGd5kbn9KB1Eg",  # your client secret
+                     user_agent="thejaswin123",  # user agent name
                      )
 
 
